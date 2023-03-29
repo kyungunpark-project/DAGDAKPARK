@@ -298,11 +298,12 @@ input[id="menuicon"]:checked+label+div {
 /* 배너 시작 */
 .big_banner {
     width: 100%;
-    height: 600px;
+    height: 560px;
     background: url(../img/sub1/sub1_banner.png)no-repeat;
     text-align: center;
     padding-top: 250px;
     box-sizing: border-box;
+    background-size: cover;
 }
 
 h2 {
@@ -373,8 +374,9 @@ h3 {
 .riding_box {
     width: 100%;
     height: 1404px;
-    background: url(../img/sub1/sub_bg01.png) no-repeat;
+    background: url(../img/sub1/sub_bg01.png) no-repeat center top;
     box-sizing: border-box;
+    background-size: cover;
 }
 
 h5 {
@@ -446,6 +448,7 @@ h1 {
     display: -ms-flexbox;
     display: flex;
     justify-content: space-around;
+    padding-bottom: 30PX;
 }
 .text1{
 text-align: center;
@@ -468,8 +471,8 @@ font-weight: bold;
     color: #fff;
     text-align: center;
     position: absolute;
-    width: 100%;
-    height: 100%;
+    width: 302PX;
+    height: 238PX;
     box-sizing: border-box;
     padding-top: 60px;
     top: 0;
