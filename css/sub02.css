@@ -299,7 +299,7 @@ input[id="menuicon"]:checked+label+div {
 .big_banner {
     width: 100%;
     height: 560px;
-    background: url(../img/sub2/sub2_banner.jpg)no-repeat;
+    background: url(../img/sub2/sub2_banner.jpg) no-repeat center top;
     text-align: center;
     padding-top: 250px;
     box-sizing: border-box;
