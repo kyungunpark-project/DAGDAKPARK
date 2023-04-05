@@ -477,13 +477,13 @@ h3 {
 
 .weather2 {
     position: absolute;
-    left: 100px;
+    left: 70px;
     top: -6px;
 }
 
 .weather3 {
     position: absolute;
-    right: 174px;
+    right: 181px;
     top: -6px;
 }
 
@@ -519,7 +519,7 @@ h3 {
 
 /* 이벤트 꾸미기 */
 .event2 li:hover img {
-    box-shadow: 10px 10px 0 rgba(63, 63, 63, 0.274);
+    box-shadow: 10px 10px 0 rgba(163, 163, 163, 0.274);
     transform: translate(10px, 10px);
 }
 
